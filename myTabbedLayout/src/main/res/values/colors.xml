@@ -3,4 +3,26 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="yellow">#fede40</color>
+    <color name="colorYellow">#FFE037</color>
+    <color name="colorTitleBackground">#FDDD4E</color>
+    <color name="colorTitle">#111111</color>
+    <color name="colorSubTitle">#636363</color>
+    <color name="colorBackground">#F5F5F9</color>
+    <color name="colorDivider">#E1E1E1</color>
+    <color name="colorHint">#A2A2A2</color>
+    <color name="colorEditLine">#BABABA</color>
+    <color name="colorQrcodeBackground">#383838</color>
+    <color name="colorError">#E49896</color>
+    <color name="colorLink">#5D9FE0</color>
+
+    <color name="google_blue">#4285F4</color>
+    <color name="google_red">#EA4335</color>
+    <color name="google_green">#34A853</color>
+    <color name="google_yellow">#FBBC05</color>
+
+    <color name="white">#ffffff</color>
+    <color name="yalantis_saffron">#F4B63E</color>
+    <color name="yalantis_eggplant">#663D4E</color>
+    <color name="yalantis_sienna">#EB6460</color>
 </resources>
